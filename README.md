@@ -1,3 +1,8 @@
+# Master Thesis
+-[Video](https://github.com/OliHas/OliHas.github.io/blob/master/Data/MTH_Hasler_lowres.mp4)  
+-[Poster](https://github.com/OliHas/OliHas.github.io/blob/master/Data/MTH_Hasler_Poster.pdf)
+
+
 # Publications
 
 Hasler, O., Blaser, S., and Nebiker, S.: *IMPLEMENTATION AND FIRST EVALUATION OF AN INDOOR MAPPING APPLICATION USING SMARTPHONES AND AR FRAMEWORKS*, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-2/W17, 135–141, 2019. [Paper](https://doi.org/10.5194/isprs-archives-XLII-2-W17-135-2019)
