@@ -1,5 +1,5 @@
 # Master Thesis
--[Video](https://github.com/OliHas/OliHas.github.io/blob/master/Data/MTH_Hasler_lowres.mp4)  
+-[Video](https://drive.google.com/file/d/1iSa-uhYjQmvlTeRkNSdLPfI2PwCdCx7e/view?usp=sharing)  
 -[Poster](https://github.com/OliHas/OliHas.github.io/blob/master/Data/MTH_Hasler_Poster.pdf)
 
 
