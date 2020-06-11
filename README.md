@@ -1,11 +1,11 @@
 # Master Thesis Bildbasierte Orientierungsbestimmung einer mobilen Sensorplattform
 
 ## Video 
-![alt text](https://github.com/OliHas/OliHas.github.io/blob/master/Data/Teaser.png "Video Teaser")
+![alt text](/Data/Teaser.png "Video Teaser")
 [Link zum Video](https://drive.google.com/file/d/1iSa-uhYjQmvlTeRkNSdLPfI2PwCdCx7e/view?usp=sharing)  
 
 ## Poster
-![alt text](https://github.com/OliHas/OliHas.github.io/blob/master/Data/MTH_Hasler_Poster.png "Poster")
+![alt text](/Data/MTH_Hasler_Poster.png "Poster")
 [Link zum Poster (PDF)](https://github.com/OliHas/OliHas.github.io/blob/master/Data/MTH_Hasler_Poster.pdf)
 
 
