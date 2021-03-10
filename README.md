@@ -10,16 +10,6 @@
 [Link zum Video (high res)](https://drive.google.com/file/d/1iSa-uhYjQmvlTeRkNSdLPfI2PwCdCx7e/view?usp=sharing)  
 [Link zum Video (Youtube, low res)](https://www.youtube.com/watch?v=4r3XlHD2lFY&t=1s)  
 
-# Master Thesis Bildbasierte Orientierungsbestimmung einer mobilen Sensorplattform
-
-## Video 
-![alt text](/Data/Teaser.png "Video Teaser")
-[Link zum Video](https://drive.google.com/file/d/1iSa-uhYjQmvlTeRkNSdLPfI2PwCdCx7e/view?usp=sharing)  
-
-## Poster
-![alt text](/Data/MTH_Hasler_Poster.png "Poster")
-[Link zum Poster (PDF)](https://github.com/OliHas/OliHas.github.io/blob/master/Data/MTH_Hasler_Poster.pdf)
-
 
 # Publications
 
