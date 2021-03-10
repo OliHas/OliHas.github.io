@@ -2,7 +2,7 @@
 
 ## KKN Poster
 
-![alt text](/Data/MTH_Hasler_Poster.png "Poster")
+![alt text](/Data/KKN_Hasler_Poster.png "Poster")
 [Link zum KKN Poster (PDF)](https://github.com/OliHas/OliHas.github.io/blob/master/Data/KKN_Hasler_Poster.pdf)
 
 ## Video 
